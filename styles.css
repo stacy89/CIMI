@@ -1,0 +1,17 @@
+body { 
+	padding-top: 70px; 
+}
+
+.jumbotron {
+	margin-top: -14px;
+}
+
+.primary-content {
+	margin-top: 8em;
+	padding-bottom: 3em;
+}
+
+.footer { 
+	padding-top: 4rem;
+	padding-bottom: 4rem;
+}
