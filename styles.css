@@ -1,4 +1,4 @@
-body { 
+.home { 
 	padding-top: 70px; 
 }
 
@@ -18,4 +18,8 @@ body {
 
 .primary-content {
 	margin-bottom: 4em;
+}
+
+.radioStation {
+	padding-bottom: 3em;
 }
