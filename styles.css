@@ -5,8 +5,11 @@
 .race-img {
 	background-image: url("images/startLine.jpg");
 	background-size: cover;
-	color: black;
-	opacity: 0.7;
+}
+
+.tech-img {
+	background-image: url("images/chalkboard.jpg");
+	background-size: cover;
 }
 
 .jumbotron {
