@@ -1,5 +1,15 @@
-body { 
+.home { 
 	padding-top: 70px; 
+}
+
+.race-img {
+	background-image: url("images/startLine.jpg");
+	background-size: cover;
+}
+
+.tech-img {
+	background-image: url("images/chalkboard.jpg");
+	background-size: cover;
 }
 
 .jumbotron {
@@ -18,4 +28,8 @@ body {
 
 .primary-content {
 	margin-bottom: 4em;
+}
+
+.radioStation {
+	padding-bottom: 3em;
 }
